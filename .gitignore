@@ -1,7 +1,0 @@
-# Ignore datasets
-*.csv
-data/
-
-# Ignore databases
-*.db
-database/
